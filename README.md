@@ -56,17 +56,17 @@ Genie(🧞‍♂️)와 Us(우리)가 만나, 가장 합리적인 소비를 완�
 
 ## 주요 기능
 
-### [🌐 게이트웨이 & 인증]()
+### [🌐 게이트웨이 & 인증](https://github.com/Genie-Uss/genieus/wiki/게이트웨이&인증)
 
-### [🪄 주문]()
+### [🪄 주문](https://github.com/Genie-Uss/genieus/wiki/주문)
 
-### [💸 결제]()
+### [💸 결제](https://github.com/Genie-Uss/genieus/wiki/결제)
 
-### [🔥프로모션]()
+### [🔥 프로모션](https://github.com/Genie-Uss/genieus/wiki/프로모션)
 
-### [🎁 상품]()
+### [🎁 상품](https://github.com/Genie-Uss/genieus/wiki/상품)
 
-### [🎟️ 쿠폰]()
+### [🎟️ 쿠폰](https://github.com/Genie-Uss/genieus/wiki/쿠폰)
 
 </br>
 
