@@ -71,78 +71,9 @@ Genie(🧞‍♂️)와 Us(우리)가 만나, 가장 합리적인 소비를 완�
 </br>
 
 ## 적용 기술
+![스크린샷 2025-05-08 오후 12 51 42](https://github.com/user-attachments/assets/2fe42ad2-fa10-4519-a489-1b39421d4ec1)
 
- **📁 프레임워크 / 라이브러리**
 
-[JDK 17.0.13](https://www.notion.so/JDK-17-0-13-1ed94064be0581fa8ceedad22459c610?pvs=21)
-
-[SpringBoot 3.4.4](https://www.notion.so/SpringBoot-3-4-4-1ed94064be0581b8b372ea78ed4b3a6e?pvs=21)
-
-[Eureka](https://www.notion.so/Eureka-1ed94064be05814e9029e9f3f7354c08?pvs=21)
-
-[Spring Cloud Gateway](https://www.notion.so/Spring-Cloud-Gateway-1ed94064be058121bcf9dfcd0559c376?pvs=21)
-
-[Spring Data JPA](https://www.notion.so/Spring-Data-JPA-1ed94064be0581b0b045f06437eea44e?pvs=21)
-
-[OpenFeign](https://www.notion.so/OpenFeign-1ed94064be05818694ead0f7ef15fd30?pvs=21)
-
-[R`esilience4j`](https://www.notion.so/Resilience4j-1ed94064be05811a9d47d074d9bdb780?pvs=21)
-
-[Spring Batch](https://www.notion.so/Spring-Batch-1ed94064be05818d9240d2e04767a18c?pvs=21)
-
-[Jenkins](https://www.notion.so/Jenkins-1ed94064be0581409ec9e1733c6f386b?pvs=21)
-
- **🗄️ 데이터베이스**
-
-[MySQL 8.0](https://www.notion.so/MySQL-8-0-1ed94064be0581619d20feb34e3de6a8?pvs=21)
-
-[Redis](https://www.notion.so/Redis-1ed94064be058135be50d7a522348f5d?pvs=21)
-
- **📮 이벤트**
-
-[Apache Kafka](https://www.notion.so/Apache-Kafka-1ed94064be058194b782d4b0280bbe98?pvs=21)
-
- **📈 모니터링 / 로그**
-
-[Grafana](https://www.notion.so/Grafana-1ed94064be0581f99f68d73dda7d42c4?pvs=21)
-
-[Prometheus](https://www.notion.so/Prometheus-1ed94064be0581278c42c571e8a376f1?pvs=21)
-
-[Loki](https://www.notion.so/Loki-1ed94064be0581f69945f3e34baa8035?pvs=21)
-
-[Promtail](https://www.notion.so/Promtail-1ed94064be0581ec92f8eeb842ecb40e?pvs=21)
-
-[Zipkin](https://www.notion.so/Zipkin-1ed94064be0581d59083c0f683009938?pvs=21)
-
-[K6](https://www.notion.so/K6-1ed94064be0581a6a9b6c5e5801572b7?pvs=21)
-
- **🌐 인프라**
-
-[Nginx](https://www.notion.so/Nginx-1ed94064be05817ab036c21334b85010?pvs=21)
-
-[Docker](https://www.notion.so/Docker-1ed94064be05814eb14dfd9c67f29878?pvs=21)
-
-[GitHub Actions](https://www.notion.so/GitHub-Actions-1ed94064be05815d95b3ea28ed3377f3?pvs=21)
-
-[AWS EC2](https://www.notion.so/AWS-EC2-1ed94064be058117abd1c77657609463?pvs=21)
-
-[AWS ECR](https://www.notion.so/AWS-ECR-1ed94064be058165b39fe52a57aa2d4b?pvs=21)
-
-[AWS RDS](https://www.notion.so/AWS-RDS-1ed94064be05816c9e1de5a6aba95f17?pvs=21)
-
-[AWS VPC](https://www.notion.so/AWS-VPC-1ed94064be058133a14df1f01f143222?pvs=21)
-
-[AWS Route53](https://www.notion.so/AWS-Route53-1ed94064be0581418b94fc03a1a3cab1?pvs=21)
-
- **⌨️ 협업툴**
-
-[Github](https://www.notion.so/Github-1ed94064be0581c5a335e4fcf5cd68d9?pvs=21)
-
-[Slack](https://www.notion.so/Slack-1ed94064be0581ca8dafc4531436dac2?pvs=21)
-
-[Notion](https://www.notion.so/Notion-1ed94064be058164a56bf4c08a086809?pvs=21)
-
-[Discord](https://www.notion.so/Discord-1ed94064be05814786b7fff6d23a5f6f?pvs=21)
 </br>
 
 ## 기술적 의사결정
