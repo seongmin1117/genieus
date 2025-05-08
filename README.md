@@ -93,10 +93,10 @@ Genie(🧞‍♂️)와 Us(우리)가 만나, 가장 합리적인 소비를 완�
 ### [🎟️ 배포 서버 배치 실행 시 직렬화 문제](https://github.com/Genie-Uss/genieus/wiki/배포-서버-배치-실행-시-직렬화-문제)
 ### [⚡️ 서킷브레이커 사용시 예외 문제](https://github.com/Genie-Uss/genieus/wiki/서킷브레이커-사용시-예외-문제)
 
-## CONTRIBUTORS
-| 정우준 | 최성민 | 김수빈 | 류지윤 | 박상욱 |
-|--------|--------|--------|--------|--------|
-| ![정우준](https://avatars.githubusercontent.com/u/94097685?v=4&size=150) | ![최성민](https://avatars.githubusercontent.com/u/63836145?v=4&size=150) | ![김수빈](https://avatars.githubusercontent.com/u/133661980?v=4&size=150) | ![류지윤](https://avatars.githubusercontent.com/u/125468560?u=bed2a2c6cd8f101da322a1a4d76bd284648a5d00&v=4&size=150) | ![박상욱](https://avatars.githubusercontent.com/u/62924471?u=3834f05ecd13e00470ac03f1474bbe1ecc452d37&v=4&size=150) |
-| [(결제)]() | [(주문)]() | [(유저,상품)]() | [(쿠폰)]() | [(상품,프로모션)]() |
-| [GitHub 링크](https://github.com/orkrj) | [GitHub 링크](https://github.com/seongmin1117) | [GitHub 링크](https://github.com/Soobinnni) | [GitHub 링크](https://github.com/Ryujy) | [GitHub 링크](https://github.com/sosa7753) |
+## 👥 개발 인원 및 역할
+
+| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20">](https://github.com/orkrj) 정우준 | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20">](https://github.com/seongmin1117) 최성민 | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20">](https://github.com/Soobinnni) 김수빈 | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20">](https://github.com/Ryujy) 류지윤 | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20">](https://github.com/sosa7753) 박상욱 |
+|:--:|:--:|:--:|:--:|:--:|
+| ![정우준](https://github.com/orkrj.png?size=120) | ![최성민](https://github.com/seongmin1117.png?size=120) | ![김수빈](https://github.com/Soobinnni.png?size=120) | ![류지윤](https://github.com/Ryujy.png?size=120) | <img src="https://github.com/sosa7753.png?size=120" width="120"/> |
+| [📝 Wiki](https://github.com/Genie-Uss/genieus/wiki/정우준)<br/>• 배포 전략 수립<br/>• 클라우드 인프라 담당<br/>• 결제 서비스 개발 | [📝 Wiki](https://github.com/Genie-Uss/genieus/wiki/최성민)<br/>• 공통 라이브러리 설계<br/>• 주문 서비스 구현<br/>• 성능 개선 / CI 구축 | [📝 Wiki](https://github.com/Genie-Uss/genieus/wiki/김수빈)<br/>• 인증 서버 / 게이트웨이<br/>• 유저 / 상품 도메인<br/>• 공통 인증 모듈 | [📝 Wiki](https://github.com/Genie-Uss/genieus/wiki/류지윤)<br/>• 쿠폰 서비스 설계 및 개발 | [📝 Wiki](https://github.com/Genie-Uss/genieus/wiki/박상욱)<br/>• 프로모션 / 상품 도메인 개발 |
 
