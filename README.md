@@ -145,49 +145,22 @@ Genie(🧞‍♂️)와 Us(우리)가 만나, 가장 합리적인 소비를 완�
 [Discord](https://www.notion.so/Discord-1ed94064be05814786b7fff6d23a5f6f?pvs=21)
 </br>
 
-## 팀 컨벤션
-
-Naming Convention
-- 계층별 네이밍
-- MSA 동기 통신시 네이밍 규칙
-
-Branch Convention
-
-PR Convention
-
-Commit Convention
-
-Package Convention
-
-Issue Convention
-
 ## 기술적 의사결정
 
-공통 라이브러리 설계 및 의존성 관리 전략
-
-서비스 간 통신 방식 결정 (동기 vs 비동기)
-
-성능 최적화를 위한 배치 및 캐시 전략
-
-통합 모니터링 및 트레이싱 환경 구축
-
-서비스 장애 대응 및 복구 전략 수립
-
-배포 전략 결정 및 클라우드 인프라 설계
+### [📖 공통 라이브러리 설계 및 의존성 관리 전략](https://github.com/Genie-Uss/genieus/wiki/공통-라이브러리-설계-및-의존성-관리-전략)
+### [📨 서비스 간 통신 방식 결정 (동기 vs 비동기)](https://github.com/Genie-Uss/genieus/wiki/서비스-간-통신-방식-결정-(동기-vs-비동기))
+### [📈 성능 최적화를 위한 배치 및 캐시 전략](https://github.com/Genie-Uss/genieus/wiki/성능-최적화를-위한-배치-및-캐시-전략)
+### [👨‍🔬 통합 모니터링 및 트레이싱 환경 구축](https://github.com/Genie-Uss/genieus/wiki/통합-모니터링-및-트레이싱-환경-구축)
+### [❤️‍🩹 서비스 장애 대응 및 복구 전략 수립](https://github.com/Genie-Uss/genieus/wiki/서비스-장애-대응-및-복구-전략-수립)
+### [🐳 배포 전략 결정 및 클라우드 인프라 설계](https://github.com/Genie-Uss/genieus/wiki/배포-전략-결정-및-클라우드-인프라-설계)
 
 ## 트러블슈팅
 
-MSA 환경에서 API Gateway 연결 트러블슈팅
-
-RDS 커넥션 제한과 Hikari CP 충돌 문제
-
-실시간 최저가 상품 반영을 위한 엔티티 구조 설계
-
-배포 서버 배치 실행 시 직렬화 문제
-
-서킷브레이커 사용시 예외 문제
-
-부하테스트를 통한 성능 개선
+### [♻️ MSA 환경에서 API Gateway 연결](https://github.com/Genie-Uss/genieus/wiki/MSA-환경에서-API-Gateway-연결-트러블슈팅)
+### [♾️ RDS 커넥션 제한과 Hikari CP 충돌 문제](https://github.com/Genie-Uss/genieus/wiki/RDS-커넥션-제한과-Hikari-CP-충돌-문제)
+### [💸 실시간 최저가 상품 반영을 위한 엔티티 구조 설계](https://github.com/Genie-Uss/genieus/wiki/실시간-최저가-상품-반영을-위한-엔티티-구조-설계)
+### [🎟️ 배포 서버 배치 실행 시 직렬화 문제](https://github.com/Genie-Uss/genieus/wiki/배포-서버-배치-실행-시-직렬화-문제)
+### [⚡️ 서킷브레이커 사용시 예외 문제](https://github.com/Genie-Uss/genieus/wiki/서킷브레이커-사용시-예외-문제)
 
 ## CONTRIBUTORS
 
