@@ -67,24 +67,86 @@ Genie(🧞‍♂️)와 Us(우리)가 만나, 가장 합리적인 소비를 완�
 
 ## 주요 기능
 
-### [🌐 게이트웨이 & 인증](https://github.com/Genie-Uss/genieus/wiki/게이트웨이&인증)
+### 🌐 게이트웨이 & 인증
+- 토큰 기반 인증 시스템 구현 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/토큰-기반-인증-시스템-구현)
+- 패스포트를 발급하여 각 마이크로 서비스 간 인증 객체로 활용 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/패스포트를-발급하여-각-마이크로-서비스-간-인증-객체로-활용)
+- 비동기 환경에서의 분산 추적: 게이트웨이로부터 시작되는 컨텍스트 전파 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/비동기-환경에서의-분산-추적-게이트웨이로부터-시작되는-컨텍스트-전파)
 
-### [🪄 주문](https://github.com/Genie-Uss/genieus/wiki/주문)
+### 🪄 주문
+- 주문 서비스의 안정성과 복원력을 높인 동기/비동기 통신 최적화 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/주문-서비스의-안정성과-복원력을-높인-동기/비동기-통신-최적화)
+- Redis 기반 주문 만료 관리로 대규모 트래픽 대응 및 성능 최적화 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/Redis-기반-주문-만료-관리로-대규모-트래픽-대응-및-성능-최적화)
 
-### [💸 결제](https://github.com/Genie-Uss/genieus/wiki/결제)
+### 💸 결제
+- 결제 수단의 확장과 축소를 고려하여 전략 패턴과 팩토리 패턴 사용 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/결제-수단의-확장과-축소를-고려하여-전략-패턴과-팩토리-패턴-사용)
+- 성능 최적화를 위해 객체 생성 시 캐싱, 결제 완료 시 이벤트 처리함 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/성능-최적화를-위해-객체-생성-시-캐싱,-결제-완료-시-이벤트-처리함)
+- 아웃박스 패턴을 사용하여 결제 완료와 이벤트 발행의 정합성 보장 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/아웃박스-패턴을-사용하여-결제-완료와-이벤트-발행의-정합성-보장)
 
-### [🔥 프로모션](https://github.com/Genie-Uss/genieus/wiki/프로모션)
+### 🔥 프로모션
+- 실시간으로 상품의 최저가 조회 보장 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/실시간으로-상품의-최저가-조회-보장)
+- 상품이 추가됐을 때, Redis에 해당 상품 반영 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/상품이-추가됐을-때,-Redis에-해당-상품-반영)
 
-### [🎁 상품](https://github.com/Genie-Uss/genieus/wiki/상품)
+### 🎁 상품
+- 주문 요청시 상품들의 재고 검증 및 예약 기능 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/주문-요청시-상품들의-재고-검증-및-예약-기능)
+- 주문 완료/취소/만료 이벤트에 대한 재고 복구/차감 처리 기능 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/주문-완료/취소/만료-이벤트에-대한-재고-복구/차감-처리-기능)
+- 재고 변경 히스토리 배치 처리 기능 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/재고-변경-히스토리-배치-처리-기능)
 
-### [🎟️ 쿠폰](https://github.com/Genie-Uss/genieus/wiki/쿠폰)
+### 🎟️ 쿠폰
+- Redis 기반의 선착순 쿠폰 발급 처리로 정확한 재고 관리 및 중복 발급 방지 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/Redis-기반의-선착순-쿠폰-발급-처리로-정확한-재고-관리-및-중복-발급-방지)
+- Spring Batch + Jenkins기반 대용량 쿠폰 발급 이력 저장 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/Spring-Batch-+-Jenkins기반-대용량-쿠폰-발급-이력-저장)
+
 
 </br>
 
 ## 적용 기술
 
-![스크린샷 2025-05-08 오후 12 51 42](https://github.com/user-attachments/assets/2fe42ad2-fa10-4519-a489-1b39421d4ec1)
+### 📁 프레임워크 / 라이브러리
 
+![JDK 17](https://img.shields.io/badge/JDK%2017-007396?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?logo=spring&logoColor=white)  
+![Eureka](https://img.shields.io/badge/Eureka-6DB33F?logo=spring&logoColor=white)
+![Spring Cloud Gateway](https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?logo=spring&logoColor=white)
+![OpenFeign](https://img.shields.io/badge/OpenFeign-6DB33F?logo=spring&logoColor=white)  
+![Resilience4j](https://img.shields.io/badge/Resilience4j-4A90E2?logo=resilience4j&logoColor=white)
+![Spring Batch](https://img.shields.io/badge/Spring%20Batch-6DB33F?logo=spring&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+
+### 🗄️ 데이터베이스
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+
+### 📮 이벤트
+
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
+
+### 📈 모니터링 / 로그
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Zipkin](https://img.shields.io/badge/Zipkin-DE0D92?logo=zipkin&logoColor=white)  
+![Loki](https://img.shields.io/badge/Loki-0C2233?logo=grafana&logoColor=white)
+![Promtail](https://img.shields.io/badge/Promtail-FF5C00?logo=grafana&logoColor=white)
+![K6](https://img.shields.io/badge/K6-7B42BC?logo=k6&logoColor=white)
+
+### 🌐 인프라
+
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)  
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?logo=amazonaws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonaws&logoColor=white)
+![AWS ECR](https://img.shields.io/badge/AWS%20ECR-FF9900?logo=amazonaws&logoColor=white)
+![AWS VPC](https://img.shields.io/badge/AWS%20VPC-FF9900?logo=amazonaws&logoColor=white)
+![AWS Route53](https://img.shields.io/badge/AWS%20Route53-FF9900?logo=amazonaws&logoColor=white)
+
+
+### 🤝 협업툴
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)
 
 </br>
 
