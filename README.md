@@ -150,7 +150,7 @@ Genie(🧞‍♂️)와 Us(우리)가 만나, 가장 합리적인 소비를 완�
 
 - 📖 공통 라이브러리 설계 및 의존성 관리 전략 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/공통-라이브러리-설계-및-의존성-관리-전략)
 
-- 📨 서비스 간 통신 방식 결정 (동기 vs 비동기) → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/서비스-간-통신-방식-결정-(동기-vs-비동기))
+- 📨 서비스 간 통신 방식 결정 (동기 vs 비동기) → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/서비스-간-통신-방식-결정)
 
 - 📈 성능 최적화를 위한 배치 및 캐시 전략 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/성능-최적화를-위한-배치-및-캐시-전략)
 
