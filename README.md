@@ -70,8 +70,9 @@ Genie(🧞‍♂️)와 Us(우리)가 만나, 가장 합리적인 소비를 완�
 - 비동기 환경에서의 분산 추적: 게이트웨이로부터 시작되는 컨텍스트 전파 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/비동기-환경에서의-분산-추적-게이트웨이로부터-시작되는-컨텍스트-전파)
 
 ### 🪄 주문
-- 주문 서비스의 안정성과 복원력을 높인 동기/비동기 통신 최적화 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/주문-서비스의-안정성과-복원력을-높인-동기/비동기-통신-최적화)
-- Redis 기반 주문 만료 관리로 대규모 트래픽 대응 및 성능 최적화 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/Redis-기반-주문-만료-관리로-대규모-트래픽-대응-및-성능-최적화)
+- Resilience4j CircuitBreaker + Retry 조합으로 외부 장애 발생 시 fallback 처리 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/Feign-장애-대응-구조-및-예외-흐름-문제-해결)
+- 재고 예약은 동기 호출(Feign)로 처리하고, 재고 차감 및 복구는 비동기 이벤트(Kafka)로 분리 설계 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/주문-서비스-핵심-로직-설계-및-트래픽-대응-구조)
+- Redis Sorted Set 기반의 Delay Queue와 배치 업데이트를 활용하여 주문 만료 처리 성능 최적화 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/주문-서비스-핵심-로직-설계-및-트래픽-대응-구조)
 
 ### 💸 결제
 - 결제 수단의 확장과 축소를 고려하여 전략 패턴과 팩토리 패턴 사용 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/결제-수단의-확장과-축소를-고려하여-전략-패턴과-팩토리-패턴-사용)
@@ -172,3 +173,5 @@ Genie(🧞‍♂️)와 Us(우리)가 만나, 가장 합리적인 소비를 완�
 - 🎟️ 배포 서버 배치 실행 시 직렬화 문제 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/배포-서버-배치-실행-시-직렬화-문제)
 
 - ⚡️ 서킷브레이커 사용시 예외 문제 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/서킷브레이커-사용시-예외-문제)
+
+- 👨🏻‍🔬 실제 운영 환경 부하 테스트 및 성능 개선 → [📝 Docs](https://nonstop-fruit-c9c.notion.site/1e721dc3d2cd80feae63c02917fc07a4?pvs=4)
