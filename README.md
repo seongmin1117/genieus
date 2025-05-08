@@ -1,6 +1,6 @@
 # 지니어스, 소원을 이뤄주는 최저가 쇼핑
 
-![image](https://github.com/user-attachments/assets/967fd02f-2e07-4224-a194-1b0ace303b28)
+<img src="https://github.com/user-attachments/assets/967fd02f-2e07-4224-a194-1b0ace303b28" width="700"/>
 
 ## 서비스/프로젝트 소개
 
@@ -11,14 +11,13 @@ Genie(🧞‍♂️)와 Us(우리)가 만나, 가장 합리적인 소비를 완�
 
 </br>
 
-| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20">](https://github.com/orkrj) 정우준 | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20">](https://github.com/seongmin1117) 최성민 | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20">](https://github.com/Soobinnni) 김수빈 | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20">](https://github.com/Ryujy) 류지윤 | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20">](https://github.com/sosa7753) 박상욱 |
-|:---------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|
-| ![정우준](https://github.com/orkrj.png)                                                                                             | ![최성민](https://github.com/seongmin1117.png)                                                                                             | ![김수빈](https://github.com/Soobinnni.png)                                                                                             | ![류지윤](https://github.com/Ryujy.png)                                                                                             | ![박상욱](https://github.com/sosa7753.png)                                                                                             |
-| <div align="center">[📝 Docs](https://github.com/Genie-Uss/genieus/wiki/정우준)</div>                                               | <div align="center">[📝 Docs](https://github.com/Genie-Uss/genieus/wiki/최성민)</div>                                                      | <div align="center">[📝 Docs](https://github.com/Genie-Uss/genieus/wiki/김수빈)</div>                                                   | <div align="center">[📝 Docs](https://github.com/Genie-Uss/genieus/wiki/류지윤)</div>                                               | <div align="center">[📝 Docs](https://github.com/Genie-Uss/genieus/wiki/박상욱)</div>                                                  |
-| • 배포 전략 수립<br/>• 클라우드 인프라 담당<br/>• 결제 서비스 개발                                                                                     | • 공통 라이브러리 설계<br/>• 주문 서비스 구현<br/>• 성능 개선<br/>• CI 구축                                                                                   | • 인증 서버 / 게이트웨이<br/>• 유저 / 상품 도메인<br/>• 공통 인증 모듈                                                                                     | • 쿠폰 서비스 설계 및 개발                                                                                                                 | • 프로모션 도메인 개발<br/>• 상품 도메인 개발                                                                                                       |
+| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" style="position: relative; top: 4.5px;">](https://github.com/orkrj) 정우준 | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" style="position: relative; top: 4.5px;">](https://github.com/seongmin1117) 최성민 | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" style="position: relative; top: 4.5px;">](https://github.com/Soobinnni) 김수빈 | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" style="position: relative; top: 4.5px;">](https://github.com/Ryujy) 류지윤 | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" style="position: relative; top: 4.5px;">](https://github.com/sosa7753) 박상욱 |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![정우준](https://github.com/orkrj.png)                                                                                                                                     | ![최성민](https://github.com/seongmin1117.png)                                                                                                                                     | ![김수빈](https://github.com/Soobinnni.png)                                                                                                                                     | ![류지윤](https://github.com/Ryujy.png)                                                                                                                                     | ![박상욱](https://github.com/sosa7753.png)                                                                                                                                     |
+| <div align="center">[📝 Docs](https://github.com/Genie-Uss/genieus/wiki/정우준)</div>                                                                                       | <div align="center">[📝 Docs](https://github.com/Genie-Uss/genieus/wiki/최성민)</div>                                                                                              | <div align="center">[📝 Docs](https://github.com/Genie-Uss/genieus/wiki/김수빈)</div>                                                                                           | <div align="center">[📝 Docs](https://github.com/Genie-Uss/genieus/wiki/류지윤)</div>                                                                                       | <div align="center">[📝 Docs](https://github.com/Genie-Uss/genieus/wiki/박상욱)</div>                                                                                          |
+| • 배포 전략 수립<br/>• 클라우드 인프라 담당<br/>• 결제 서비스 개발                                                                                                                             | • 공통 라이브러리 설계<br/>• 주문 서비스 구현<br/>• 성능 개선<br/>• CI 구축                                                                                                                           | • 인증 서버 / 게이트웨이<br/>• 유저 / 상품 도메인<br/>• 공통 인증 모듈                                                                                                                             | • 쿠폰 서비스 설계 및 개발                                                                                                                                                         | • 프로모션 도메인 개발<br/>• 상품 도메인 개발                                                                                                                                               |
 
 </br>
-</aside>
 
 ## 서비스/프로젝트 목표
 
@@ -53,47 +52,42 @@ Genie(🧞‍♂️)와 Us(우리)가 만나, 가장 합리적인 소비를 완�
 
 ## 인프라 설계
 
-<aside>
-
 ### 시스템 아키텍처 설계도
 
-![인프라_아키텍처 drawio](https://github.com/user-attachments/assets/7d6074dd-b73d-436c-9f2e-9845e2373b56)
+<img src="https://github.com/user-attachments/assets/7d6074dd-b73d-436c-9f2e-9845e2373b56" width="800"/>
 
 ### 카프카 이벤트 흐름
 
-![image 2](https://github.com/user-attachments/assets/c74ba7d2-7dd8-4c10-b61d-a07249715572)
-
-</aside>
+<img src="https://github.com/user-attachments/assets/c74ba7d2-7dd8-4c10-b61d-a07249715572" width="800"/>
 
 ## 주요 기능
 
 ### 🌐 게이트웨이 & 인증
-- 토큰 기반 인증 시스템 구현 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/토큰-기반-인증-시스템-구현)
-- 패스포트를 발급하여 각 마이크로 서비스 간 인증 객체로 활용 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/패스포트를-발급하여-각-마이크로-서비스-간-인증-객체로-활용)
-- 비동기 환경에서의 분산 추적: 게이트웨이로부터 시작되는 컨텍스트 전파 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/비동기-환경에서의-분산-추적-게이트웨이로부터-시작되는-컨텍스트-전파)
+- 토큰 기반 인증 시스템 구현 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/토큰-기반-인증-시스템-구현)
+- 패스포트를 발급하여 각 마이크로 서비스 간 인증 객체로 활용 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/패스포트를-발급하여-각-마이크로-서비스-간-인증-객체로-활용)
+- 비동기 환경에서의 분산 추적: 게이트웨이로부터 시작되는 컨텍스트 전파 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/비동기-환경에서의-분산-추적-게이트웨이로부터-시작되는-컨텍스트-전파)
 
 ### 🪄 주문
-- 주문 서비스의 안정성과 복원력을 높인 동기/비동기 통신 최적화 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/주문-서비스의-안정성과-복원력을-높인-동기/비동기-통신-최적화)
-- Redis 기반 주문 만료 관리로 대규모 트래픽 대응 및 성능 최적화 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/Redis-기반-주문-만료-관리로-대규모-트래픽-대응-및-성능-최적화)
+- 주문 서비스의 안정성과 복원력을 높인 동기/비동기 통신 최적화 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/주문-서비스의-안정성과-복원력을-높인-동기/비동기-통신-최적화)
+- Redis 기반 주문 만료 관리로 대규모 트래픽 대응 및 성능 최적화 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/Redis-기반-주문-만료-관리로-대규모-트래픽-대응-및-성능-최적화)
 
 ### 💸 결제
-- 결제 수단의 확장과 축소를 고려하여 전략 패턴과 팩토리 패턴 사용 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/결제-수단의-확장과-축소를-고려하여-전략-패턴과-팩토리-패턴-사용)
-- 성능 최적화를 위해 객체 생성 시 캐싱, 결제 완료 시 이벤트 처리함 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/성능-최적화를-위해-객체-생성-시-캐싱,-결제-완료-시-이벤트-처리함)
-- 아웃박스 패턴을 사용하여 결제 완료와 이벤트 발행의 정합성 보장 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/아웃박스-패턴을-사용하여-결제-완료와-이벤트-발행의-정합성-보장)
+- 결제 수단의 확장과 축소를 고려하여 전략 패턴과 팩토리 패턴 사용 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/결제-수단의-확장과-축소를-고려하여-전략-패턴과-팩토리-패턴-사용)
+- 성능 최적화를 위해 객체 생성 시 캐싱, 결제 완료 시 이벤트 처리함 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/성능-최적화를-위해-객체-생성-시-캐싱,-결제-완료-시-이벤트-처리함)
+- 아웃박스 패턴을 사용하여 결제 완료와 이벤트 발행의 정합성 보장 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/아웃박스-패턴을-사용하여-결제-완료와-이벤트-발행의-정합성-보장)
 
 ### 🔥 프로모션
-- 실시간으로 상품의 최저가 조회 보장 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/실시간으로-상품의-최저가-조회-보장)
-- 상품이 추가됐을 때, Redis에 해당 상품 반영 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/상품이-추가됐을-때,-Redis에-해당-상품-반영)
+- 실시간으로 상품의 최저가 조회 보장 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/실시간으로-상품의-최저가-조회-보장)
+- 상품이 추가됐을 때, Redis에 해당 상품 반영 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/상품이-추가됐을-때,-Redis에-해당-상품-반영)
 
 ### 🎁 상품
-- 주문 요청시 상품들의 재고 검증 및 예약 기능 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/주문-요청시-상품들의-재고-검증-및-예약-기능)
-- 주문 완료/취소/만료 이벤트에 대한 재고 복구/차감 처리 기능 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/주문-완료/취소/만료-이벤트에-대한-재고-복구/차감-처리-기능)
-- 재고 변경 히스토리 배치 처리 기능 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/재고-변경-히스토리-배치-처리-기능)
+- 주문 요청시 상품들의 재고 검증 및 예약 기능 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/주문-요청시-상품들의-재고-검증-및-예약-기능)
+- 주문 완료/취소/만료 이벤트에 대한 재고 복구/차감 처리 기능 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/주문-완료/취소/만료-이벤트에-대한-재고-복구/차감-처리-기능)
+- 재고 변경 히스토리 배치 처리 기능 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/재고-변경-히스토리-배치-처리-기능)
 
 ### 🎟️ 쿠폰
-- Redis 기반의 선착순 쿠폰 발급 처리로 정확한 재고 관리 및 중복 발급 방지 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/Redis-기반의-선착순-쿠폰-발급-처리로-정확한-재고-관리-및-중복-발급-방지)
-- Spring Batch + Jenkins기반 대용량 쿠폰 발급 이력 저장 → [📄 Docs](https://github.com/Genie-Uss/genieus/wiki/Spring-Batch-+-Jenkins기반-대용량-쿠폰-발급-이력-저장)
-
+- Redis 기반의 선착순 쿠폰 발급 처리로 정확한 재고 관리 및 중복 발급 방지 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/Redis-기반의-선착순-쿠폰-발급-처리로-정확한-재고-관리-및-중복-발급-방지)
+- Spring Batch + Jenkins기반 대용량 쿠폰 발급 이력 저장 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/Spring-Batch-+-Jenkins기반-대용량-쿠폰-발급-이력-저장)
 
 </br>
 
@@ -140,7 +134,6 @@ Genie(🧞‍♂️)와 Us(우리)가 만나, 가장 합리적인 소비를 완�
 ![AWS VPC](https://img.shields.io/badge/AWS%20VPC-FF9900?logo=amazonaws&logoColor=white)
 ![AWS Route53](https://img.shields.io/badge/AWS%20Route53-FF9900?logo=amazonaws&logoColor=white)
 
-
 ### 🤝 협업툴
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
@@ -152,26 +145,26 @@ Genie(🧞‍♂️)와 Us(우리)가 만나, 가장 합리적인 소비를 완�
 
 ## 기술적 의사결정
 
-### [📖 공통 라이브러리 설계 및 의존성 관리 전략](https://github.com/Genie-Uss/genieus/wiki/공통-라이브러리-설계-및-의존성-관리-전략)
+- 📖 공통 라이브러리 설계 및 의존성 관리 전략 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/공통-라이브러리-설계-및-의존성-관리-전략)
 
-### [📨 서비스 간 통신 방식 결정 (동기 vs 비동기)](https://github.com/Genie-Uss/genieus/wiki/서비스-간-통신-방식-결정-(동기-vs-비동기))
+- 📨 서비스 간 통신 방식 결정 (동기 vs 비동기) → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/서비스-간-통신-방식-결정-(동기-vs-비동기))
 
-### [📈 성능 최적화를 위한 배치 및 캐시 전략](https://github.com/Genie-Uss/genieus/wiki/성능-최적화를-위한-배치-및-캐시-전략)
+- 📈 성능 최적화를 위한 배치 및 캐시 전략 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/성능-최적화를-위한-배치-및-캐시-전략)
 
-### [👨‍🔬 통합 모니터링 및 트레이싱 환경 구축](https://github.com/Genie-Uss/genieus/wiki/통합-모니터링-및-트레이싱-환경-구축)
+- 👨‍🔬 통합 모니터링 및 트레이싱 환경 구축 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/통합-모니터링-및-트레이싱-환경-구축)
 
-### [❤️‍🩹 서비스 장애 대응 및 복구 전략 수립](https://github.com/Genie-Uss/genieus/wiki/서비스-장애-대응-및-복구-전략-수립)
+- ❤️‍🩹 서비스 장애 대응 및 복구 전략 수립 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/서비스-장애-대응-및-복구-전략-수립)
 
-### [🐳 배포 전략 결정 및 클라우드 인프라 설계](https://github.com/Genie-Uss/genieus/wiki/배포-전략-결정-및-클라우드-인프라-설계)
+- 🐳 배포 전략 결정 및 클라우드 인프라 설계 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/배포-전략-결정-및-클라우드-인프라-설계)
 
 ## 트러블슈팅
 
-### [♻️ MSA 환경에서 API Gateway 연결](https://github.com/Genie-Uss/genieus/wiki/MSA-환경에서-API-Gateway-연결-트러블슈팅)
+- ♻️ MSA 환경에서 API Gateway 연결 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/MSA-환경에서-API-Gateway-연결-트러블슈팅)
 
-### [♾️ RDS 커넥션 제한과 Hikari CP 충돌 문제](https://github.com/Genie-Uss/genieus/wiki/RDS-커넥션-제한과-Hikari-CP-충돌-문제)
+- ♾️ RDS 커넥션 제한과 Hikari CP 충돌 문제 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/RDS-커넥션-제한과-Hikari-CP-충돌-문제)
 
-### [💸 실시간 최저가 상품 반영을 위한 엔티티 구조 설계](https://github.com/Genie-Uss/genieus/wiki/실시간-최저가-상품-반영을-위한-엔티티-구조-설계)
+- 💸 실시간 최저가 상품 반영을 위한 엔티티 구조 설계 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/실시간-최저가-상품-반영을-위한-엔티티-구조-설계)
 
-### [🎟️ 배포 서버 배치 실행 시 직렬화 문제](https://github.com/Genie-Uss/genieus/wiki/배포-서버-배치-실행-시-직렬화-문제)
+- 🎟️ 배포 서버 배치 실행 시 직렬화 문제 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/배포-서버-배치-실행-시-직렬화-문제)
 
-### [⚡️ 서킷브레이커 사용시 예외 문제](https://github.com/Genie-Uss/genieus/wiki/서킷브레이커-사용시-예외-문제)
+- ⚡️ 서킷브레이커 사용시 예외 문제 → [📝 Docs](https://github.com/Genie-Uss/genieus/wiki/서킷브레이커-사용시-예외-문제)
